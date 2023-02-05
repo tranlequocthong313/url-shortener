@@ -14,5 +14,4 @@ services:
     environment:
       - NODE_ENV=production
       - MONGO_HOST=mongo
-      - MONGO_POR=27017
       - PORT=3000
